@@ -30,7 +30,7 @@ Hosting by [Vercel](https://vercel.com/)
 
 ## documents.
 - [introduction](https://github.com/nknighta/vx-web3-docs/blob/master/introduction/main.md)
-- [introduction](https://github.com/nknighta/vx-web3-docs/blob/master/introduction/getstarted.md)
+- [Get Started](https://github.com/nknighta/vx-web3-docs/blob/master/introduction/getstarted.md)
 
 ## LICENSE
 [MIT](https://github.com/nknighta/vx-web3-docs/blob/master/LICENSE)
