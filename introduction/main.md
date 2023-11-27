@@ -1,3 +1,3 @@
 # Introduction 
 
-vx...
+[API repo](https://github.com/nknighta/vx-api)
