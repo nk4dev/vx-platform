@@ -14,9 +14,6 @@ website
 VX is a developer's platform that we are developing to lower the technical and economic hurdles to developing Web3 applications.
 
 ## aliavle developer version!
-
-GitHub dev branch [vx-dev](https://github.com/nknighta/vx/tree/dev)
-
 Dev version [Welcome (Dev) | VARIUS](https://dev.varius.technology)
 
 Hosting by [Vercel](https://vercel.com/)
@@ -33,6 +30,7 @@ Hosting by [Vercel](https://vercel.com/)
 
 ## documents.
 - [introduction](https://github.com/nknighta/vx-web3-docs/blob/master/introduction/main.md)
+- [introduction](https://github.com/nknighta/vx-web3-docs/blob/master/introduction/getstarted.md)
 
 ## LICENSE
 [MIT](https://github.com/nknighta/vx-web3-docs/blob/master/LICENSE)
