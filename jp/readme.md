@@ -9,4 +9,4 @@
 
 [テスト版](https://dev.varius.technology)
 
-[日本語ドキュメント](https://github.com/nknigha/vx-docs/jp/)
+[日本語ドキュメント](https://github.com/nknighta/vx-docs/tree/master/jp)
