@@ -1,4 +1,4 @@
-#vxについて
+# vxについて
 
 はじめまして、[VX](https://varius.technology)を開発しているあまみやです。
 
