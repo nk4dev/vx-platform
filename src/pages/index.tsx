@@ -17,7 +17,7 @@ export default function DocsHomePage() {
                         VX | varius technology.
                     </p>
                     <div className="flex gap-3">
-                        <Button onClick={() => router.push("/docs/getting-start")}>Get Started</Button>
+                        <Button onClick={() => router.push("/docs/introduction")}>Get Started</Button>
                         <Button variant="secondary" onClick={() => router.push("/docs/introduction")}>Learn More</Button>
                     </div>
                 </div>

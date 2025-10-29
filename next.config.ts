@@ -1,5 +1,12 @@
 module.exports = {
     images: {
-        domains: ['ogp-img-gen.vercel.app'],
+        remotePatterns: [
+            {
+                protocol: 'https',
+                hostname: 'ogp-img-gen.vercel.app',
+                port: '',
+                pathname: '/**',
+            },
+        ],
     },
 }
